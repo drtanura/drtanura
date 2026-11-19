@@ -2,23 +2,23 @@
 
 MBBS | MRes Public Health, University of Wolverhampton
 
-My research interests are cardiovascular science and disease prevention, including blood pressure regulation and cardiovascular health.
+My research interests are cardiovascular science and disease prevention, with a particular interest in blood pressure regulation and cardiovascular health.
 
-My MRes dissertation used a systematic review to explore aerobic exercise, ACE gene polymorphism and blood pressure in early-onset hypertension. I used SPSS during my MRes and am developing my R skills for reproducible health research.
+My MRes dissertation was a systematic review of aerobic exercise, ACE gene polymorphism and blood pressure in early-onset hypertension. I used SPSS during my MRes and am developing my R skills for reproducible health research.
 
-## R portfolio
-
-**[Blood pressure before and after: a simulated analysis](https://github.com/drtanura/blood-pressure-r-demo)**
-
-A beginner project demonstrating data checks, descriptive statistics, paired visualisation and reproducible reporting. The data are entirely fictional and do not provide clinical evidence.
-
-## Research development
+## Research skills and interests
 
 - Literature searching and evidence synthesis
 - SPSS experience
-- Learning R for data analysis and visualisation
-- Interests in doctoral research in cardiovascular science and disease prevention
+- Developing R skills in data checking, descriptive statistics and visualisation
+- Doctoral research interests in cardiovascular science and disease prevention
 
-## Portfolio transparency
+## R learning portfolio
 
-The first project was prepared with AI assistance as a learning resource. It should be reviewed and understood before being presented as evidence of independent R proficiency.
+[Paired blood pressure analysis in R](https://github.com/drtanura/blood-pressure-r-demo) — an introductory project using simulated data, with reproducible code, descriptive statistics and paired plots.
+
+The project was prepared with generative AI assistance. It is a learning demonstration using fictional data.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dr-tanura-akter-lima-34a55429b/)
