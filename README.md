@@ -2,7 +2,7 @@
 
 MBBS | MRes Public Health, University of Wolverhampton
 
-My research interests include exercise physiology, blood pressure regulation, vascular responses to exercise and cardiovascular health.
+My research interests are cardiovascular science and disease prevention, including blood pressure regulation and cardiovascular health.
 
 My MRes dissertation used a systematic review to explore aerobic exercise, ACE gene polymorphism and blood pressure in early-onset hypertension. I used SPSS during my MRes and am developing my R skills for reproducible health research.
 
@@ -17,7 +17,7 @@ A beginner project demonstrating data checks, descriptive statistics, paired vis
 - Literature searching and evidence synthesis
 - SPSS experience
 - Learning R for data analysis and visualisation
-- Interests in doctoral research in exercise physiology and cardiovascular health
+- Interests in doctoral research in cardiovascular science and disease prevention
 
 ## Portfolio transparency
 
